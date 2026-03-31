@@ -14,5 +14,25 @@
          "phone": "0966666666",
          "dateOfBirth": "1979-01-01T00:00:00.000Z"
       }
-   ]
+   ],
+
+   "accounts": [
+      {
+         "id": 1,
+         "userId": 1,
+         "username": "nguyenvanan",
+         "password": "12345678",
+         "status": "active",
+         "lastLogin": "2025-04-02T08:15:30.000Z",
+         "createdAt": "2023-05-01T00.00.00.000Z"
+      },
+      {
+         "id": 2,
+         "userId": 2,
+         "username": "tranhungminh",
+         "password": "12345678",
+         "status": "active",
+         "lastLogin": "2025-04-03T08:15:30.000Z",
+         "createdAt": "2023-05-01T00.00.00.000Z"
+      },
 }
